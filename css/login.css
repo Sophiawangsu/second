@@ -1,0 +1,16 @@
+body{background: #28A4C9;}
+#login{
+	border: 1px solid black;
+	border-radius: 20px;
+	width: 700px;
+	height: 300px;
+	margin: 100px auto;
+	font-size: 30px;
+}
+.box{margin: 50px;position: absolute;width: 600px;height: 200px;}
+input{margin-bottom:10px;height: 30px;outline: none;width: 200px;}
+.login{width: 214px;height: 40px;font-weight: 700;margin-left: 130px;background-color: #CC3333;outline: none;margin-top: 30px;}
+.noLogin{font-size: 8px;position: absolute;left: 362px;top: 210px;color: red;}
+.box .zhuce{width: 60px; position: absolute;left: 450px;top: 200px;font-size: 8px;background: #28A4C9;}
+a{position: absolute;left: 0px;top: 210px;font-size: 12px;}
+.box .err{font-size: 20px;font-weight: 700;margin-left: 20px;}
